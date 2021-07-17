@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhistark007&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Abhi's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhistark007&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
