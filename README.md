@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Front End Development
-- 💬 Ask me about HTML,CSS & Tailwind related things
+- 🔭 I’m currently working on Full Stack Development
+- 💬 Ask me about HTML,CSS ,Tailwind & Javascript related things
 - 📫 How to reach me: https://www.linkedin.com/in/abhi-kumar-bb84851b1/
 
 
