@@ -49,3 +49,51 @@ website link=> http://financilux.infinityfreeapp.com/
 
 ![image](https://user-images.githubusercontent.com/58290134/235370462-72475942-ad1e-415a-b78c-ba9066d323dc.png)
 
+## Netflix Reloaded
+
+website link=> https://netflix-reloaded.web.app/
+
+![image](https://github.com/abhistark007/Netflix-Reloaded/assets/58290134/547a7df0-66f8-4bdd-83ba-0d1e50bcaccd)
+
+
+## Shopping-Cart-App
+
+website link=> https://shopping-cart-app-b7cbb.web.app/
+
+![image](https://github.com/abhistark007/Shopping-Cart-App/assets/58290134/409e687d-38a8-4b9b-a320-1ad479b86297)
+
+
+![image](https://github.com/abhistark007/Shopping-Cart-App/assets/58290134/5fc6bd90-4e1c-4682-990e-f2e954dc679d)
+
+
+## TODO APP V1
+
+website link=> https://todo-app-v1-ee40f.web.app/
+
+![image](https://github.com/abhistark007/TODO-APP/assets/58290134/9e1cafdc-878f-41c7-9ad7-ef279c6beadf)
+
+
+![image](https://github.com/abhistark007/TODO-APP/assets/58290134/fe0a7db6-2c2c-45de-83ed-41c169c4cd21)
+
+
+
+## Weather App V2
+ 
+website link=> https://weather-app-v2-7705d.web.app/
+
+![image](https://github.com/abhistark007/Weather-App-v2/assets/58290134/cef0e32d-01d4-4834-b567-b34c9225f65b)
+
+
+![image](https://github.com/abhistark007/Weather-App-v2/assets/58290134/3cd99444-f4ad-41a1-843f-c2255998f6a9)
+
+
+![image](https://github.com/abhistark007/Weather-App-v2/assets/58290134/917bfff0-44be-43d5-ac97-7c43c6ec69cc)
+
+
+## URLShortner
+
+website link=> https://url-shortner-007.netlify.app
+
+Created a fully functional URL shortener which uses https://shrtco.de/docs API. Learned how to send HTTP requests using "axios" and integrate with a third-party API and how to handle various response of the API using react-redux and hooks.
+
+![image](https://github.com/abhistark007/URLShortner/assets/58290134/a64129c9-e694-4511-8846-9c78610a7df4)
